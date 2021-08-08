@@ -1,0 +1,14 @@
+
+.middlePage{
+    width: auto;
+    height: 1000px;
+    /* width: 1535px; */
+    background-size: 1535px;
+    background-image: url('oren_play.jpg');
+}
+
+#SlideShow{
+    height: 1000px;
+    width: auto;
+
+}

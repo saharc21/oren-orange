@@ -1,0 +1,51 @@
+
+.topping{
+  position: relative;
+  height: 80px;
+}
+nav {
+ position: relative;
+ float: right;
+ height: 60px;
+ width: auto;
+ top: 15px;
+}
+
+
+
+#mainLogo {
+  position: relative;
+  top: 10px;
+  width: 200px;
+  height: 50px;
+  float: left;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color:  orangered;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+

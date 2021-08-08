@@ -1,0 +1,21 @@
+[debug] [2021-08-08T00:04:45.535Z] ----------------------------------------------------------------------
+[debug] [2021-08-08T00:04:45.537Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sahar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-08T00:04:45.537Z] CLI Version:   9.16.0
+[debug] [2021-08-08T00:04:45.537Z] Platform:      win32
+[debug] [2021-08-08T00:04:45.537Z] Node Version:  v12.16.3
+[debug] [2021-08-08T00:04:45.539Z] Time:          Sun Aug 08 2021 03:04:45 GMT+0300 (Israel Daylight Time)
+[debug] [2021-08-08T00:04:45.539Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-08T00:04:45.546Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-08T00:04:45.546Z] > authorizing via signed-in user (saharc5441@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\sahar\Desktop\oren website\oren-orange
+
